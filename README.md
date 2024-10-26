@@ -29,4 +29,4 @@ Our key findings and deliverables include:
 ## Conclusion
 The Vanguard A/B Test Project showcases the power of data-driven decision-making in optimizing user experiences and driving business outcomes. By leveraging insights from the experiment, Vanguard can continue to enhance its digital offerings and better serve its clients' needs. We look forward to presenting our findings and recommendations to the Vanguard team.
 
-![Image Alt Text](https://github.com/DarceeAnne/Vanguard_Investment_AB_Testing/raw/main/images/credits.png)
+![Image Alt Text](https://github.com/maossand/A_B_Testing_Vanguard_Investment/blob/main/images/credits.jpeg?raw=true)
