@@ -1,7 +1,7 @@
 # Vanguard A/B Test Project
 
 
-![Image Alt Text](https://github.com/DarceeAnne/Vanguard_Investment_AB_Testing/blob/main/images/intro.png)
+![Image Alt Text](https://github.com/maossand/A_B_Testing_Vanguard_Investment/blob/main/images/intro.jpeg?raw=true)
 
 
 ## Project Overview
